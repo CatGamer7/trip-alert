@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CatGamer7/trip-alert-backend.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/CatGamer7/trip-alert-mobile.git
